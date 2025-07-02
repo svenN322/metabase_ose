@@ -17,3 +17,5 @@ services:
         value: bdosce_user
       - key: MB_DB_PASS
         value: WU6oQRnomZgct27EyMn3WzWsX10IxyvM
+      - key: JAVA_TOOL_OPTIONS
+        value: -Xmx512m
